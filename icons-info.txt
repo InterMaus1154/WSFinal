@@ -1,0 +1,10 @@
+Link to the CDN:
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
+
+Needed Icons:
+<i class="fas fa-hamburger"></i>
+
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-instagram"></i>
+<i class="fab fa-snapchat-ghost"></i>
