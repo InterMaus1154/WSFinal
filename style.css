@@ -254,13 +254,9 @@ header nav ul li a:hover{
 
 .Line-section.Role-section{
     text-align: justify;
+    padding-left: clamp(2rem, 5vw + 1rem, 10rem);
+    padding-right: clamp(2rem, 5vw + 1rem, 10rem);
 }
-
-.Line-section.Role-section p{
-    padding-left: clamp(1rem, 2vw + .5rem, 5rem);
-    padding-right: clamp(1rem, 2vw + .5rem, 5rem);
-}
-
 
 footer{
     background-color: #57ac29;
@@ -297,8 +293,10 @@ footer .Social-media-links ul li a i:hover{
 footer .Copyright-box{
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: flex-end;
     text-align: right;
+    gap: .5rem;
 }
 
 footer .Copyright-box h4{
